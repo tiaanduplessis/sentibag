@@ -15,6 +15,9 @@
     "coverage": "jest --coverage",
     "build": "microbundle"
   },
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "afinn111-lexicon": "^1.0.0",
     "babel-preset-env": "^1.7.0",
